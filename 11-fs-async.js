@@ -1,5 +1,6 @@
 // Fs module (Async)
 
+console.log('Start');
 const {readFile, writeFile} = require('fs');
 
 readFile('./content/first.txt', 'utf-8', (err, result) => {
@@ -27,3 +28,5 @@ readFile('./content/first.txt', 'utf-8', (err, result) => {
         );
     });
 });
+
+console.log('Starting next task');
