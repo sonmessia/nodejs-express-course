@@ -1,1 +1,0 @@
-Here is the result: First file content, Second file content
