@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Modern Sofa",
+    "price": 499.99,
+    "featured": true,
+    "rating": 4.8,
+    "company": "ikea"
+  },
+  {
+    "name": "Wooden Dining Table",
+    "price": 299.99,
+    "featured": false,
+    "rating": 4.6,
+    "company": "liddy"
+  },
+  {
+    "name": "Ergonomic Chair",
+    "price": 199.99,
+    "featured": true,
+    "rating": 4.7,
+    "company": "caressa"
+  },
+  {
+    "name": "Queen Bed Frame",
+    "price": 399.99,
+    "featured": false,
+    "rating": 4.5,
+    "company": "ikea"
+  },
+  {
+    "name": "Nightstand",
+    "price": 59.99,
+    "featured": true,
+    "rating": 4.4,
+    "company": "liddy"
+  },
+  {
+    "name": "Office Desk",
+    "price": 149.99,
+    "featured": false,
+    "rating": 4.2,
+    "company": "caressa"
+  },
+  {
+    "name": "Recliner Armchair",
+    "price": 249.99,
+    "featured": true,
+    "rating": 4.9,
+    "company": "marcos"
+  },
+  {
+    "name": "Glass Coffee Table",
+    "price": 129.99,
+    "featured": false,
+    "rating": 4.1,
+    "company": "ikea"
+  },
+  {
+    "name": "TV Stand",
+    "price": 109.99,
+    "featured": true,
+    "rating": 4.6,
+    "company": "liddy"
+  }
+]
