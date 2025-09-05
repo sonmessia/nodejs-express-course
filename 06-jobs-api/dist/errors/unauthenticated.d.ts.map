@@ -1,0 +1,1 @@
+{"version":3,"file":"unauthenticated.d.ts","sourceRoot":"","sources":["../../errors/unauthenticated.ts"],"names":[],"mappings":"AACA,OAAO,cAAc,MAAM,iBAAiB,CAAC;AAE7C,cAAM,oBAAqB,SAAQ,cAAc;IAC/C,UAAU,EAAE,MAAM,CAAC;gBACP,OAAO,EAAE,MAAM;CAI5B;AACD,eAAe,oBAAoB,CAAC"}
